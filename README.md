@@ -10,7 +10,6 @@
 ## Screenshots
 ![Source code and test script](https://github.com/doit-now/math-util-1805/blob/main/screenshots/SourceCodeAndUnitTest.png)
 
-
 ### Connect me via: hoang.nguyenthe@gmail.com
 
 #### &#169; 2024 giáo.làng 
