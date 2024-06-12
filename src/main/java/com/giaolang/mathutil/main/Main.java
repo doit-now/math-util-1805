@@ -16,12 +16,12 @@ public class Main {
     //this method is written directly in server to simulate 
     //the work of another team member, he uploads code before me
     public static void SayHiFromServer() {
-        
+        System.out.println("Hello");
     }
     
     //this method is written in local 
     public static void SayHiFromLocal() {
-        
+        System.out.println("Hello");
     }
     
     public static void main(String[] args) {
