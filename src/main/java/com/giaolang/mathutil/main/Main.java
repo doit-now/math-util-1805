@@ -12,6 +12,12 @@ import javax.swing.JOptionPane;
  * @author giao.lang
  */
 public class Main {
+
+    //this method is written directly in server to simulate 
+    //the work of another team member, he uploads code before me
+    public static void SayHiFromServer() {
+        
+    }
     
     //this method is written in local 
     public static void SayHiFromLocal() {
